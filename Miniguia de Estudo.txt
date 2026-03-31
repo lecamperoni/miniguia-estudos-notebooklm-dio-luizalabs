@@ -1,0 +1,38 @@
+Resumo do assunto:
+
+O Looker Studio é uma ferramenta gratuita do Google que transforma dados brutos em relatórios dinâmicos e dashboards interativos.
+O fluxo de trabalho consiste em conectar fontes de dados, criar visualizações personalizadas através de um editor de "arrastar e soltar" e compartilhar os insights com outras pessoas.
+Conexão de Dados: A plataforma se conecta a mais de 800 fontes, incluindo BigQuery, Planilhas Google e redes sociais, muitas vezes utilizando conectores de parceiros como a Kondado para simplificar a integração.
+Tipos de Dashboards: É possível criar painéis operacionais (monitoramento diário), estratégicos (longo prazo), analíticos (tendências históricas) ou táticos (desempenho de equipes).
+Escolha de Gráficos: A seleção deve focar na mensagem desejada: gráficos de barras comparam categorias, linhas mostram evolução no tempo e o gráfico de pizza indica a proporção de partes em relação a um todo.
+Storytelling com Dados: Uma análise eficaz combina dados, recursos visuais e uma narrativa clara para cativar a audiência e facilitar a tomada de decisão.
+Isso inclui o uso de princípios psicológicos, como as leis da Gestalt, para organizar informações de forma que o cérebro as interprete sem esforço.
+
+Glossário:
+
+Looker Studio: Ferramenta gratuita que transforma dados brutos em relatórios e painéis interativos
+
+Dimensão: Atributos qualitativos dos seus dados, como nomes de produtos, datas ou categorias
+
+Métrica: Valores quantitativos ou cálculos numéricos, como soma de vendas, médias ou contagens
+
+Fonte de Dados: O local original onde suas informações estão guardadas, como Planilhas Google ou BigQuery
+
+Conector: O mecanismo que estabelece a ligação entre o Looker Studio e a sua fonte de dados
+
+Dashboard: Um painel que consolida visualizações e KPIs para oferecer uma visão geral do desempenho
+
+KPI (Indicador-Chave de Desempenho): As métricas mais importantes para medir o sucesso de um objetivo de negócio
+
+Storytelling com Dados: A arte de combinar dados, recursos visuais e narrativa para comunicar insights de forma clara e cativante
+
+Campos Calculados: Fórmulas criadas por você para gerar novas métricas ou dimensões a partir dos dados existentes
+
+
+Prompts reutilizáveis:
+
+Escolha de Gráficos: "Para o objetivo de [ex: comparar o desempenho de produtos], qual gráfico é mais recomendado e quais cuidados devo ter com a escala ou legendas?"
+Design e Psicologia: "Como posso aplicar princípios de Gestalt ou atributos pré-atentivos (como cores e tamanho) para destacar o insight principal deste relatório?"
+Estrutura de Dashboard: "Meu foco é [ex: monitoramento diário de metas]. Este deve ser um dashboard operacional ou tático? Quais métricas principais não podem faltar?"
+Storytelling: "Explique como os três pilares do storytelling (dados, recursos visuais e narrativa) podem ser aplicados para tornar este dashboard de [tema] mais cativante."
+Refinamento Visual: "Como configurar rótulos de dados e cores em um gráfico de [tipo] para facilitar a leitura rápida de porcentagens ou valores totais?"
